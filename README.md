@@ -4,11 +4,6 @@
     <style>
         h1{
             color:blueviolet
-            
-
-            blue-heading {
-                color: coral
-            }
            
         }
     </style>
